@@ -1,23 +1,18 @@
-## **🚀 AI Enthusiast | ML Engineer | Flask Developer**
+# 🚀 AI Enthusiast | ML Engineer | Flask Developer  
 
-Hi there! 👋
+## Hi there! 👋  
+I'm passionate about **Machine Learning, Neural Networks, and Mathematics**, always exploring the **latest advancements in AI**.  
 
-I'm passionate about Machine Learning, Neural Networks, and Mathematics, always exploring the latest advancements in AI.
+### 🛠️ Tech Stack & Interests:  
+- 🧠 **Deep Learning | NLP | Computer Vision**  
+- 🐍 **Python | Flask | MLOps**  
+- 🔬 **Researching cutting-edge AI**  
 
-🧠 Deep Learning | NLP | Computer Vision
+### 🚀 What I Do?  
+- 🏗️ Building intelligent systems  
+- 📊 Exploring data-driven solutions  
+- ⚡ Staying updated with the latest AI breakthroughs  
 
-🐍 Python | Flask | MLOps
+💡 **Curious Mind | Lifelong Learner | Tech Innovator**  
 
-What I Do?
-
-🏗️ Building intelligent systems
-
-📊 Exploring data-driven solutions
-
-🔬 Researching cutting-edge AI
-
-💡 Curious Mind | Lifelong Learner 
-
-
-📫 Let's connect and innovate together! 🚀
-
+📫 *Let's connect and innovate together!*  
