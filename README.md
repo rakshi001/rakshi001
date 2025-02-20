@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @rakshi001
-- 👀 I’m interested in GenAI
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me LinkedIN
+🚀 AI Enthusiast | ML Engineer | Flask Developer
 
-<!---
-rakshi001/rakshi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm passionate about Machine Learning, Neural Networks, and Mathematics, always exploring the latest advancements in AI. With a strong foundation in Python & Flask, I love building intelligent solutions that make an impact.
+
+🔬 Curious about cutting-edge tech | 💡 Always learning | 🛠️ Building cool stuff
+
+Let's innovate together! 🚀
+
