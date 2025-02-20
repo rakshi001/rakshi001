@@ -1,6 +1,6 @@
 # 🚀 AI Enthusiast | ML Engineer | Flask Developer  
 
-## Hi there! 👋  
+## Hi there! Myself Rakshith M L👋  
 I'm passionate about **Machine Learning, Neural Networks, and Mathematics**, always exploring the **latest advancements in AI**.  
 
 ### 🛠️ Tech Stack & Interests:  
