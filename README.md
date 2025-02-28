@@ -4,12 +4,10 @@
 I'm passionate about **Machine Learning, Neural Networks, and Mathematics**, always exploring the **latest advancements in AI**.  
 
 ### 🛠️ Tech Stack & Interests:  
-- 🧠 **Deep Learning | NLP | Computer Vision**  
-- 🐍 **Python | Flask | MLOps**  
-- 🔬 **Researching cutting-edge AI**  
+- 🧠 **Machine Learning | NLP **  
+- 🐍 **Python**   
 
 ### 🚀 What I Do?  
-- 🏗️ Building intelligent systems  
 - 📊 Exploring data-driven solutions  
 - ⚡ Staying updated with the latest AI breakthroughs  
 
