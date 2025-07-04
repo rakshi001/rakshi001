@@ -1,14 +1,6 @@
-# 🚀 AI Enthusiast | ML Engineer 
+# Rakshith M L
 
-## Hi there! Myself Rakshith M L👋  
-I'm passionate about **Machine Learning, Neural Networks, and Mathematics**, always exploring the **latest advancements in AI**.  
+I'm a software engineer focused on building full-stack applications and AI-engineered solutions. I enjoy working across the stack — from clean user interfaces to scalable backends — and exploring how AI can power smarter systems.
 
-### 🛠️ Tech Stack & Interests:  
-- 🧠 **Machine Learning | NLP**  
-- 🐍 **Python**   
-
-### 🚀 What I Do?  
-- 📊 Exploring data-driven solutions  
-- ⚡ Staying updated with the latest AI breakthroughs  
-
-📫 *Let's connect and innovate together!*  
+📍 100xDevs Cohort  
+🐦 [@rakshith_ml](https://twitter.com/rakshith_twt)
