@@ -1,6 +1,7 @@
 # Rakshith M L
 
-I'm a software engineer focused on building full-stack applications and AI-engineered solutions. I enjoy working across the stack — from clean user interfaces to scalable backends — and exploring how AI can power smarter systems.
+Software Engineer with a strong focus on building robust full-stack applications and AI-driven solutions. 
+Experienced in developing scalable web systems, integrating machine learning workflows, and applying DevOps principles for efficient deployment.
 
-📍 100xDevs Cohort  
-🐦 [@rakshith_twt](https://twitter.com/rakshith_twt)
+📍 Member, 100xDevs Cohort  
+🐦 [@rakshith_twt](https://twitter.com/rakshith_ml)
